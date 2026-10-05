@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+Vehicle_Type_Recognition/
